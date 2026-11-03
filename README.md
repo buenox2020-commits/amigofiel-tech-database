@@ -13,6 +13,3 @@ Projeto acadêmico de modelagem e implementação de banco de dados relacional d
 O sistema é composto por 9 tabelas interligadas:
 `unidades`, `especies`, `racas`, `colaboradores`, `animais`, `adotantes`, `vacinas`, `historico_vacinas` e `processos_adocao`.
 
-## 🚀 Como Executar
-1. Execute o script `schema.sql` no seu SGDB (MySQL / MariaDB).
-2. O script criará o banco `AmigoFielDB`, as tabelas com suas restrições e fará o povoamento inicial.
